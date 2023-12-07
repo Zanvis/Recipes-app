@@ -1,0 +1,7 @@
+{
+  "name": "Recipes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
