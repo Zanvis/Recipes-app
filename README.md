@@ -2,3 +2,5 @@
 ![image](https://github.com/Zanvis/Recipes-app/assets/161169953/d44fb530-0d22-49c0-af81-c596de86dd2b)
 ![Zrzut ekranu 2024-05-24 220147](https://github.com/Zanvis/Recipes-app/assets/161169953/9f5b01e8-1b94-4bae-b9db-e1fc24389027)
 ![Zrzut ekranu 2024-05-24 220153](https://github.com/Zanvis/Recipes-app/assets/161169953/faa6fdbf-50fc-4d6e-8d0e-d4b1f93cc4ef)
+![image](https://github.com/Zanvis/Recipes-app/assets/161169953/4e39e614-a793-4b9d-b0e4-b3a9cba5885b)
+![image](https://github.com/Zanvis/Recipes-app/assets/161169953/99428fad-28e8-475d-89ff-e0d1ccbaa900)
